@@ -1,0 +1,7 @@
+C:\Users\leonardo.ykonichi\source\repos\Leoleoleo5\Leoleoleo5\bin\Debug\Leoleoleo5.exe.config
+C:\Users\leonardo.ykonichi\source\repos\Leoleoleo5\Leoleoleo5\bin\Debug\Leoleoleo5.exe
+C:\Users\leonardo.ykonichi\source\repos\Leoleoleo5\Leoleoleo5\bin\Debug\Leoleoleo5.pdb
+C:\Users\leonardo.ykonichi\source\repos\Leoleoleo5\Leoleoleo5\obj\Debug\Leoleoleo5.csproj.AssemblyReference.cache
+C:\Users\leonardo.ykonichi\source\repos\Leoleoleo5\Leoleoleo5\obj\Debug\Leoleoleo5.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.ykonichi\source\repos\Leoleoleo5\Leoleoleo5\obj\Debug\Leoleoleo5.exe
+C:\Users\leonardo.ykonichi\source\repos\Leoleoleo5\Leoleoleo5\obj\Debug\Leoleoleo5.pdb
